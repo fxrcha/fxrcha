@@ -56,4 +56,4 @@ int main () {
 수수께기 화난여자 미공개곡도 많잖아..
 알겠지 형?
 
-![그의 업적](https://github-readme-stats.vercel.app/api?username=fxrchal&show_icons=true)
+![그의 업적](https://github-readme-stats.vercel.app/api?username=fxrcha&show_icons=true)
