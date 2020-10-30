@@ -1,52 +1,6 @@
-### 저는 이런걸 제일 좋아합니다.
+### 저는 ㅂ신입니다.
 
-```python
-import streamlink
-import subprocess
-
-def returnM3U8_Azi():
-  stream_obj = streamlink.streams ("https://twitch.tv/dkwl025")
-  link = stream_obj["best"].url
-  return link
-
-def startFFmpeg():
-  m3u8_link = returnM3U8_Azi()
-  cmd = [
-       "ffmpeg",
-       "-i", m3u8_link,
-       "-c", "copy",
-       "-map_metadata", "0",
-       "술주정한거는_친구한테_부산의호떡을.mkv"
-   ]
-   process = subprocess.Popen(
-       cmd,
-       stdout=subprocess.PIPE,
-       stderr=subprocess.PIPE,
-   )
-   print (f"Starting Something : {process.pid}")
-
-if __name__ == "__main__":
-  startFFmpeg()
-```
-
-### 아니면 이딴거요.
-
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-int dp[5386], n;
-
-int main () {
-  ios_base::sync_with_stdio(false);
-  cin.tie(0);
-  cout.tie(0);
-  cin >> n;
-  dp[0] = 0, dp[1] = 1;
-  for (int i = 2; i <= n; ++i) dp[i] = dp[i - 1] + dp[i - 2]:
-  cout << dp[n];
-  return 0;
-}
-```
+옆에서 제 수1 쎈을 보고 있는 전모씨가 그랬어요. 전두환 아닙니다
 
 ### 그리고 씨잼은 하루빨리 앨범을 내야합니다.
 살면서 누구앨범 뒤지게 기다려본적은 없네 성민이형
