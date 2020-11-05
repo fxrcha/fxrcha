@@ -28,9 +28,9 @@
 + [VegeProject](https://github.com/fxrcha/Vegaproject) - Pantech Vega 펌웨어 다운로드 사이트 (중단)
 
 ### Contact me on..
-+ [Spotify](https://img.shields.io/badge/-ChaCha-1ed761?style=for-the-badge&logo=spotify&logoColor=fff)
-+ [Discord](https://img.shields.io/badge/-fxrcha-7289da?style=for-the-badge&logo=discord&logoColor=fff)
-+ [Email](https://img.shields.io/badge/-truetype24-bb001b?style=for-the-badge&logo=gmail&logoColor=fff)
+![Spotify](https://img.shields.io/badge/-ChaCha-1ed761?style=for-the-badge&logo=spotify&logoColor=fff)
+![Discord](https://img.shields.io/badge/-fxrcha-7289da?style=for-the-badge&logo=discord&logoColor=fff)
+![Email](https://img.shields.io/badge/-truetype24-bb001b?style=for-the-badge&logo=gmail&logoColor=fff)
 
 ### One More Thing..
 씨잼 제발 앨범내..
