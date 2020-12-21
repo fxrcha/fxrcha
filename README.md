@@ -34,11 +34,13 @@
 
 ### One More Thing..
 씨잼 제발 앨범내..
-
 형 최근에 집행유예 뭐시기 기사봤어.. 
 키드밀리였나 여튼 누구 인스타에 나온거도 봤고..
 형 ㄹㅇ 건강하더라.. 그니까 2020년 전에는 앨범내줘
 낸다매.. 설마 불러 싱글 내고 끝이야? 아니지?
+
+불러 내고 끝이더라 ㅆ발...
+이하이 정규나 기다릴련다...
 
 ### My Github Stats
 ![그의 업적](https://github-readme-stats.vercel.app/api?username=fxrcha&show_icons=true)
