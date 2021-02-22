@@ -1,6 +1,6 @@
 <h2 align="center">Hi there!</h1>
 
-I'm a student live in South Korea. I love to code about Apple, Twitch things. Also, I currently working for [@UniqueCodeGit](https://github.com/UniqueCodeGit).
+I'm a student living in South Korea. I love to code about Apple, Twitch things. Also, I currently working for [@UniqueCodeGit](https://github.com/UniqueCodeGit).
 
 ## My abilities
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff) 
