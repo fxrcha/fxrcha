@@ -16,6 +16,9 @@ Hi there! I'm a student living in South Korea. I'd love to code about Apple, Mus
 * [Siri](https://github.com/fxrcha/Siri) - A discord bot for Apple Softwares.
 * [Dukzl](https://github.com/fxrcha/Dukzl) - A discord bot for making your fanboy / fangirl life easier
 * [Johnny](https://github.com/fxrcha/Johnny) - A regular discord music bot
+* [Loyal](https://github.com/fxrcha/Loyal) - A fast API of indexing Apple sofrwares
+* [https://github.com/fxrcha/sturm-cli](Sturm (CLI)) - A CLI tool downloads Apple softwares
+
 
 ## My Interests
 
