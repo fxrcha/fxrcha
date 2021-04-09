@@ -10,26 +10,15 @@
 
 Hi there! I'm a student living in South Korea. I'd love to code about Apple, Music, and Twitch related things.
 
-## My Projects
+## Projects
 
 * [PyApple](https://github.com/fxrcha/PyApple) - The Python Package for Apple Softwares.
 * [Siri](https://github.com/fxrcha/Siri) - A discord bot for Apple Softwares.
 * [Dukzl](https://github.com/fxrcha/Dukzl) - A discord bot for making your fanboy / fangirl life easier
 * [Johnny](https://github.com/fxrcha/Johnny) - A regular discord music bot
 * [Loyal](https://github.com/fxrcha/Loyal) - A fast API of indexing Apple sofrwares
-* [Strum (CLI)](https://github.com/fxrcha/sturm-cli) - A CLI tool downloads Apple softwares
+* [Sturm (CLI)](https://github.com/fxrcha/sturm-cli) - A CLI tool downloads Apple softwares
 
-
-## My Interests
-
-* [C JAMM](https://namu.wiki/w/C%20JAMM)
-  - My favorite rapper in South Korea
-  - Still waiting for his new album
-
-* [YANGHONGWON](https://namu.wiki/w/%EC%96%91%ED%99%8D%EC%9B%90?from=%EC%98%81%EB%B9%84)
-  - Also, favorite rapper in South Korea
- 
-* [Apple](https://apple.com)
 
 ## My Github Stats
 
