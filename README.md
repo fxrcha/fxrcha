@@ -10,7 +10,11 @@ I'm fxrcha, who codes python backend thing while designs frontend stuffs.
 
 ## Recent Activities
 ```
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+⬆️ Pushed 1 commit to fxrcha/fxrcha
+⬆️ Pushed 1 commit to fxrcha/dormir
+⬆️ Pushed 1 commit to fxrcha/fxrcha
+⬆️ Pushed 1 commit to fxrcha/fxrcha
+⬆️ Pushed 1 commit to fxrcha/fxrcha
 ```
 
 ## Personal Loves
