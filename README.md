@@ -13,8 +13,8 @@ I'm fxrcha, who codes python backend thing while designs frontend stuffs.
 ⬆️ Pushed 1 commit to fxrcha/fxrcha
 ⬆️ Pushed 1 commit to fxrcha/fxrcha
 ⬆️ Pushed 1 commit to fxrcha/fxrcha
-⬆️ Pushed 1 commit to fxrcha/dormir
 ⬆️ Pushed 1 commit to fxrcha/fxrcha
+⬆️ Pushed 1 commit to fxrcha/dormir
 ```
 
 ## Personal Loves
