@@ -1,25 +1,26 @@
-<h2 align="center">Hi there!</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="python"/>
-  <img src="https://img.shields.io/badge/-Node.js-4FC08D?style=for-the-badge&logo=node.js&logoColor=fff" alt="node"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=fff" alt="c++"/>
-  <img src="https://img.shields.io/badge/-Swift-fc4103?style=for-the-badge&logo=swift&logoColor=fff" alt="swift"/>
-  <img src="https://img.shields.io/badge/-Xcode-1572B6?style=for-the-badge&logo=xcode&logoColor=fff" alt="xcode"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=fff" alt="flask"/>
-</p>
+# Hello 👋
 
-Hi there! I'm a student living in South Korea. I'd love to code about Apple, Music, and Twitch related things.
+I'm fxrcha, who codes python backend thing while designs frontend stuffs.
 
 ## Projects
+* [PyApple](https://github.com/fxrcha/PyApple), A Python module for Apple stuffs.
+* [Loyal](https://github.com/fxrcha/Loyal), API for downloading OTA & IPSW firmwares.
+* [Siri](https://github.com/fxrcha/Siri), discord bot for Apple things.
+* [Dukzl](https://github.com/fxrcha/Dukzl), discord bot for fanboy life.
 
-* [PyApple](https://github.com/fxrcha/PyApple) - The Python Package for Apple Softwares.
-* [Siri](https://github.com/fxrcha/Siri) - A discord bot for Apple Softwares.
-* [Dukzl](https://github.com/fxrcha/Dukzl) - A discord bot for making your fanboy / fangirl life easier
-* [Johnny](https://github.com/fxrcha/Johnny) - A regular discord music bot
-* [Loyal](https://github.com/fxrcha/Loyal) - A fast API of indexing Apple sofrwares
-* [Sturm (CLI)](https://github.com/fxrcha/sturm-cli) - A CLI tool downloads Apple softwares
+## Recent Activities
+```
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+```
 
+## Personal Loves
+* [Apple](https://apple.com/)
+* [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI)
+* [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR)
 
-## My Github Stats
+## Contact Me
+* [Behance](https://www.behance.net/hyunwoocho)
+* [Email](mailto:truetype24@gmail.com)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fxrcha&layout=compact)
+## Statistics
+![Stat](https://github-readme-stats.vercel.app/api?username=fxrcha&show_icons=true&hide_border=true&count_private=true&theme=dracula)
