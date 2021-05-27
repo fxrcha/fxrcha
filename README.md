@@ -10,7 +10,7 @@ I'm fxrcha, who codes python backend thing while designs frontend stuffs.
 
 ## Recent Activities
 ```
-⬆️ Pushed 1 commit to fxrcha/fxrcha
+🗣 Commented on #1 in 331leo/Discord-M1
 ⬆️ Pushed 1 commit to fxrcha/fxrcha
 ⬆️ Pushed 1 commit to fxrcha/fxrcha
 ⬆️ Pushed 1 commit to fxrcha/fxrcha
