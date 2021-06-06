@@ -8,15 +8,6 @@ I'm fxrcha, who codes python backend thing while designs frontend stuffs.
 * [Siri](https://github.com/fxrcha/Siri), discord bot for Apple things.
 * [Dukzl](https://github.com/fxrcha/Dukzl), discord bot for fanboy life.
 
-## Recent Activities
-```
-⬆️ Pushed 1 commit to fxrcha/fxrcha
-⬆️ Pushed 1 commit to fxrcha/fxrcha
-⬆️ Pushed 1 commit to fxrcha/fxrcha
-⬆️ Pushed 1 commit to fxrcha/fxrcha
-⬆️ Pushed 1 commit to fxrcha/fxrcha
-```
-
 ## Personal Loves
 * [Apple](https://apple.com/)
 * [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI)
