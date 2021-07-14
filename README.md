@@ -10,8 +10,9 @@ I'm fxrcha, who codes python backend thing while designs frontend stuffs.
 
 ## Personal Loves
 * [Apple](https://apple.com/)
-* [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI)
+* [설경구 (korean movie actor)](https://namu.wiki/w/설경구)
 * [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR)
+* [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH)
 
 ## Contact Me
 * [Behance](https://www.behance.net/hyunwoocho)
