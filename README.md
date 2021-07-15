@@ -1,6 +1,6 @@
-# Hello 👋
+## Hello, I'm fxrcha.
 
-I write awful python codes. Also design with terrible hands.
+I write awful python codes, and also design some stuffs with terrible hands.
 
 ## Also me
 * [Behance](https://www.behance.net/hyunwoocho)
